@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Jonas/Desktop/ClockGame/Content/back.png</File>
+    <File>C:/Users/Jonas/Desktop/ClockGame/Content/background.png</File>
+    <File>C:/Users/Jonas/Desktop/ClockGame/Content/clock.png</File>
+    <File>C:/Users/Jonas/Desktop/ClockGame/Content/disk.png</File>
+    <File>C:/Users/Jonas/Desktop/ClockGame/Content/exit.png</File>
+    <File>C:/Users/Jonas/Desktop/ClockGame/Content/explanation.png</File>
+    <File>C:/Users/Jonas/Desktop/ClockGame/Content/font.spritefont</File>
+    <File>C:/Users/Jonas/Desktop/ClockGame/Content/how to play.png</File>
+    <File>C:/Users/Jonas/Desktop/ClockGame/Content/new game.png</File>
+    <File>C:/Users/Jonas/Desktop/ClockGame/Content/pixel.png</File>
+    <File>C:/Users/Jonas/Desktop/ClockGame/Content/restart.png</File>
+    <File>C:/Users/Jonas/Desktop/ClockGame/Content/smile.png</File>
+    <File>C:/Users/Jonas/Desktop/ClockGame/Content/stick_figure.png</File>
+    <File>C:/Users/Jonas/Desktop/ClockGame/Content/time.png</File>
+    <File>C:/Users/Jonas/Desktop/ClockGame/Content/wheel.png</File>
+    <File>C:/Users/Jonas/Desktop/ClockGame/Content/you lose.png</File>
+    <File>C:/Users/Jonas/Desktop/ClockGame/Content/you win.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

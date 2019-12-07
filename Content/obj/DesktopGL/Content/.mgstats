@@ -1,0 +1,18 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Jonas/Desktop/ClockGame/Content/back.png","C:/Users/Jonas/Desktop/ClockGame/Content/bin/DesktopGL/Content/back.xnb","TextureProcessor","Texture2DContent",1068,45757,0.1093125
+"C:/Users/Jonas/Desktop/ClockGame/Content/background.png","C:/Users/Jonas/Desktop/ClockGame/Content/bin/DesktopGL/Content/background.xnb","TextureProcessor","Texture2DContent",15785,7279661,0.2796258
+"C:/Users/Jonas/Desktop/ClockGame/Content/clock.png","C:/Users/Jonas/Desktop/ClockGame/Content/bin/DesktopGL/Content/clock.xnb","TextureProcessor","Texture2DContent",12782,4194389,0.202175
+"C:/Users/Jonas/Desktop/ClockGame/Content/disk.png","C:/Users/Jonas/Desktop/ClockGame/Content/bin/DesktopGL/Content/disk.xnb","TextureProcessor","Texture2DContent",4512,1048661,0.1438583
+"C:/Users/Jonas/Desktop/ClockGame/Content/exit.png","C:/Users/Jonas/Desktop/ClockGame/Content/bin/DesktopGL/Content/exit.xnb","TextureProcessor","Texture2DContent",730,33349,0.015621
+"C:/Users/Jonas/Desktop/ClockGame/Content/explanation.png","C:/Users/Jonas/Desktop/ClockGame/Content/bin/DesktopGL/Content/explanation.xnb","TextureProcessor","Texture2DContent",7456,459717,0.0156609
+"C:/Users/Jonas/Desktop/ClockGame/Content/font.spritefont","C:/Users/Jonas/Desktop/ClockGame/Content/bin/DesktopGL/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.2968053
+"C:/Users/Jonas/Desktop/ClockGame/Content/how to play.png","C:/Users/Jonas/Desktop/ClockGame/Content/bin/DesktopGL/Content/how to play.xnb","TextureProcessor","Texture2DContent",1862,149653,0.0156165
+"C:/Users/Jonas/Desktop/ClockGame/Content/new game.png","C:/Users/Jonas/Desktop/ClockGame/Content/bin/DesktopGL/Content/new game.xnb","TextureProcessor","Texture2DContent",2015,125509,0.1718345
+"C:/Users/Jonas/Desktop/ClockGame/Content/pixel.png","C:/Users/Jonas/Desktop/ClockGame/Content/bin/DesktopGL/Content/pixel.xnb","TextureProcessor","Texture2DContent",119,89,0.3384529
+"C:/Users/Jonas/Desktop/ClockGame/Content/restart.png","C:/Users/Jonas/Desktop/ClockGame/Content/bin/DesktopGL/Content/restart.xnb","TextureProcessor","Texture2DContent",1337,66053,0.0155887
+"C:/Users/Jonas/Desktop/ClockGame/Content/smile.png","C:/Users/Jonas/Desktop/ClockGame/Content/bin/DesktopGL/Content/smile.xnb","TextureProcessor","Texture2DContent",7498,1048661,0.4321282
+"C:/Users/Jonas/Desktop/ClockGame/Content/stick_figure.png","C:/Users/Jonas/Desktop/ClockGame/Content/bin/DesktopGL/Content/stick_figure.xnb","TextureProcessor","Texture2DContent",8611,1048661,0.6259517
+"C:/Users/Jonas/Desktop/ClockGame/Content/time.png","C:/Users/Jonas/Desktop/ClockGame/Content/bin/DesktopGL/Content/time.xnb","TextureProcessor","Texture2DContent",5780,4194389,0.2016863
+"C:/Users/Jonas/Desktop/ClockGame/Content/wheel.png","C:/Users/Jonas/Desktop/ClockGame/Content/bin/DesktopGL/Content/wheel.xnb","TextureProcessor","Texture2DContent",6229,1048661,0.1356204
+"C:/Users/Jonas/Desktop/ClockGame/Content/you lose.png","C:/Users/Jonas/Desktop/ClockGame/Content/bin/DesktopGL/Content/you lose.xnb","TextureProcessor","Texture2DContent",1467,83509,0.0175959
+"C:/Users/Jonas/Desktop/ClockGame/Content/you win.png","C:/Users/Jonas/Desktop/ClockGame/Content/bin/DesktopGL/Content/you win.xnb","TextureProcessor","Texture2DContent",1261,74929,0.0156349
